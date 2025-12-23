@@ -1,0 +1,18 @@
+{
+  "short_name": "MyAdminApp",
+  "name": "Personal URL to App Generator",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1160/1160358.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#28a745",
+  "description": "My personal tool to convert URL into mobile suggested view."
+}
